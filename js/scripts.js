@@ -7,4 +7,4 @@ alert('Hello, ' + name);
 //Displays the value in the alert window.
 
 console.log('Hello, ' + name);
-//Displays the value on the console tab.
+/* Displays the value on the console tab.*/
